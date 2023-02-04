@@ -12,3 +12,7 @@ It also exists to provide compatibility with Microsoft Windows systems to read d
 
 
 * You May repackage this for the AUR or other distros packaging methods, non-commercial use.
+
+
+
+*To use the fonts on this repo, git clone it, or download as zip. then use your DE font manager or install to system folders to get the fonts working. you may need to reboot or re-login to see changes.
