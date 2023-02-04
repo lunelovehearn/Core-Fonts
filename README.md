@@ -11,4 +11,4 @@ This repository exists to host a collection of fonts that can be used on Linux s
 It also exists to provide compatibility with Microsoft Windows systems to read documents and write.
 
 
-# You May repackage this for the AUR or other distros packaging methods, non-commercial use.
+* You May repackage this for the AUR or other distros packaging methods, non-commercial use.
