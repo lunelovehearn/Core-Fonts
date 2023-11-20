@@ -1,7 +1,7 @@
 # Core-Fonts
 A small repository containing multiple fonts to be used on Linux systems, Post Installation.
 
-## I'm currently looking for contributors to package this for the AUR, so if you are willing to help, please reach me out.
+## I'm currently looking for contributors to package this for the AUR, and people who can also contribute with their own font files. so if you are willing to help, please reach me out.
 
 --
 
