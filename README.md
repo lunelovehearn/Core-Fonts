@@ -14,5 +14,7 @@ It also exists to provide compatibility with Microsoft Windows systems to read d
 * You may contribute by adding fonts to Main or Extra directories.
 
 
+
+# Usage:
 * To use the fonts on this repo, git clone it, or download as zip (until it gets properly packaged for distros), then use your DE font manager or install to system folders to get the fonts working. you may need to reboot or re-login to see changes.
 
