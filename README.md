@@ -13,7 +13,7 @@
 * You may contribute by adding fonts to Main or Extra directories.
 * When packaging, redistribute the same licence. this repository is mainly intended for private use.
 * Commercial use of the fonts is allowed, but giving credits to all the designers who worked hard into making such amazing fonts.
-* Everything comes "AS IS", so neither the font creators, or me, Lune, take responsability for any damage to your system if you do something wrong.
+* Everything comes "AS IS", so neither the font creators, or me, take responsability for any damage to your system if you do something wrong.
 
 
 
